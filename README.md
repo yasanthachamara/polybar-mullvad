@@ -9,7 +9,7 @@ This is a simple polybar module to display the VPN up/down status of Mullvad
 + Create the module with following guide
 + Add the module to bar
 
-### Polybar Configuration(Create the module)
+### Polybar configuration(Create the module)
 
 + Open your polybar config file
 + Add the following lines to include the script
@@ -25,3 +25,17 @@ label = %output%
 label-foreground = #BFC7D5
 format-foreground = #FFCB68
 ```
+
+### Final look
+
+VPN Connected
+
+<p>
+		<img src=".assets/vpn-connected.png" />
+</p>
+
+VPN Disconnected
+
+<p>
+		<img src=".assets/vpn-disconnected.png" />
+</p>
