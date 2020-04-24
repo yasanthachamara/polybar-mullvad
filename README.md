@@ -6,6 +6,7 @@ This is a simple polybar module to display the VPN up/down status of Mullvad
 
 + It's better to create a new **scripts** folder inside your **polybar** folder first. Makes it easier to maintain script files separately
 + Copy the [vpn.sh](https://github.com/yasanthachamara/polybar-mullvad/blob/master/vpn.sh) file to your polybar/scripts folder
++ Make the **vpn.sh** executable with **chmod +x vpn.sh**
 + Create the module with following guide
 + Add the module to bar
 
