@@ -28,6 +28,9 @@ format-foreground = #FFCB68
 
 ### Final look
 
-+ VPN Connected <img src=".assets/vpn-connected.png" />
-
-+ VPN Disconnected <img src=".assets/vpn-not-connected.png" />
+<p>
+<img src=".assets/vpn-connected.png" />
+</p>
+<p>
+<img src=".assets/vpn-not-connected.png" />
+</p>
